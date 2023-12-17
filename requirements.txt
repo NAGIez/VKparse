@@ -1,0 +1,7 @@
+requests
+pandas
+json
+tqdm
+datetime
+elasticsearch
+art
