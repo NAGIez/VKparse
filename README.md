@@ -1,3 +1,5 @@
+<p align="center"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VK_Compact_Logo.svg/2048px-VK_Compact_Logo.svg.png"  width="200" height="200">
+
 # <p align="center">VK Group Activity Analytics
 <p align="center">Анализ активности групп ВК методом парсинга данных постов.
 
